@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /_backup/
+
+Sitemap: https://chagizac.github.io/Throttle-Money/sitemap.xml
