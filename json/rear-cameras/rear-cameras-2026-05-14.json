@@ -10,11 +10,11 @@
       "longitude": 126.977471,
       "radiusMeters": 250,
       "cooldownMinutes": 10,
-      "directionBearing": 270,
+      "directionBearing": 268,
       "roadName": "전북특별자치도 익산시 영등동 870",
       "address": "전북특별자치도 익산시 영등동 870",
       "enabled": true,
-      "updatedAt": "2026-05-14T07:42:38+09:00"
+      "updatedAt": "2026-05-14T13:03:35+09:00"
     },
     {
       "id": "rear_20260514_0002",
@@ -24,11 +24,25 @@
       "longitude": 126.947185,
       "radiusMeters": 250,
       "cooldownMinutes": 10,
-      "directionBearing": 198,
+      "directionBearing": 196,
       "roadName": "전북특별자치도 익산시 중앙동1가 4",
       "address": "전북특별자치도 익산시 중앙동1가 4",
       "enabled": true,
-      "updatedAt": "2026-05-14T06:54:10+09:00"
+      "updatedAt": "2026-05-14T13:03:52+09:00"
+    },
+    {
+      "id": "rear_20260514_0003",
+      "type": "rear_camera",
+      "name": "신동 842 후면단속",
+      "latitude": 35.960961,
+      "longitude": 126.965791,
+      "radiusMeters": 250,
+      "cooldownMinutes": 10,
+      "directionBearing": 304,
+      "roadName": "전북특별자치도 익산시 신동 842",
+      "address": "전북특별자치도 익산시 신동 842",
+      "enabled": true,
+      "updatedAt": "2026-05-14T13:04:40+09:00"
     }
   ]
 }
