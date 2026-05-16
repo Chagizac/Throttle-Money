@@ -48,21 +48,6 @@
       "updatedAt": "2026-05-14T13:38:38+09:00"
     },
     {
-      "id": "rear_20260516_0004",
-      "type": "rear_camera",
-      "name": "남중동 83-13 후면단속",
-      "latitude": 35.944948,
-      "longitude": 126.957306,
-      "radiusMeters": 250,
-      "cooldownMinutes": 10,
-      "directionBearing": 286,
-      "speedLimitKph": 30,
-      "roadName": "전북특별자치도 익산시 남중동 83-13",
-      "address": "전북특별자치도 익산시 남중동 83-13",
-      "enabled": true,
-      "updatedAt": "2026-05-16T21:42:14+09:00"
-    },
-    {
       "id": "rear_20260516_0005",
       "type": "rear_camera",
       "name": "신동 864 후면단속",
@@ -75,7 +60,37 @@
       "roadName": "전북특별자치도 익산시 신동 864",
       "address": "전북특별자치도 익산시 신동 864",
       "enabled": true,
-      "updatedAt": "2026-05-16T21:43:27+09:00"
+      "updatedAt": "2026-05-16T22:42:33+09:00"
+    },
+    {
+      "id": "rear_20260516_0006",
+      "type": "rear_camera",
+      "name": "신동 864 후면단속",
+      "latitude": 35.961727,
+      "longitude": 126.953236,
+      "radiusMeters": 250,
+      "cooldownMinutes": 10,
+      "directionBearing": 185,
+      "speedLimitKph": null,
+      "roadName": "전북특별자치도 익산시 신동 864",
+      "address": "전북특별자치도 익산시 신동 864",
+      "enabled": true,
+      "updatedAt": "2026-05-16T22:42:15+09:00"
+    },
+    {
+      "id": "rear_20260516_0007",
+      "type": "rear_camera",
+      "name": "남중동 86-194 후면단속",
+      "latitude": 35.944897,
+      "longitude": 126.957526,
+      "radiusMeters": 250,
+      "cooldownMinutes": 10,
+      "directionBearing": 288,
+      "speedLimitKph": 50,
+      "roadName": "전북특별자치도 익산시 남중동 86-194",
+      "address": "전북특별자치도 익산시 남중동 86-194",
+      "enabled": true,
+      "updatedAt": "2026-05-16T22:51:07+09:00"
     }
   ]
 }
