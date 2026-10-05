@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "2026-09-29-1",
-  "generatedAt": "2026-09-29T15:26:36+09:00",
+  "dataVersion": "2026-10-05-1",
+  "generatedAt": "2026-10-05T19:45:23+09:00",
   "minAppVersion": "5.3.3",
-  "dataUrl": "https://chagizac.github.io/Throttle-Money/json/rear-cameras/rear-cameras-2026-09-29.enc.json",
+  "dataUrl": "https://chagizac.github.io/Throttle-Money/json/rear-cameras/rear-cameras-2026-10-05.enc.json",
   "encrypted": true,
   "encryptionAlgorithm": "AES-256-GCM",
-  "sha256": "a4c85bd3f59f0bcc8c11bc7a75d7fba01a9e40a4ee16048e5e1ed206d37a26d7",
-  "plaintextSha256": "9bc872054447b577dd5098d07fb60fc0e77132ec6fcb1485d4ffb4c1e4abd34f",
-  "itemCount": 1585
+  "sha256": "ef64f407432e8319da1e57f83ec088ef41cf344db7e43c7b6ae2704db0e7c22a",
+  "plaintextSha256": "bb55187b6cf0fee59b9b00671bb859710d8e150e3550f4f3c06b542a837e6b5b",
+  "itemCount": 1595
 }
