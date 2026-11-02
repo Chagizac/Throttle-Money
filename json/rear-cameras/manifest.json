@@ -8,5 +8,10 @@
   "encryptionAlgorithm": "AES-256-GCM",
   "sha256": "1a0392552cec696a709ea4bb1cd874eeb8251b61ab4380329118e3b339812b70",
   "plaintextSha256": "48f521f176b8de73ffd4e5dd21221527a231ee5ce4bdb699b72723faf2a07dfd",
-  "itemCount": 11
+  "itemCount": 11,
+  "credits": {
+    "version": "2026-11-03-sample-1",
+    "url": "https://chagizac.github.io/Throttle-Money/json/rear-cameras/credits-2026-11-03-sample-1.json",
+    "sha256": "6985ad6c40abc08b27036af4d2583959ab9e39de2770e1383bf95c689a991b2c"
+  }
 }
