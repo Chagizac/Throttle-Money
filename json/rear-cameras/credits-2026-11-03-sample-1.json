@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": "2026-11-03-sample-1",
-  "generatedAt": "2026-11-03T01:14:47+09:00",
+  "generatedAt": "2026-11-05T19:10:28+09:00",
   "entries": [
     {
       "displayName": "오늘도부릉이 (9)",
@@ -41,10 +41,6 @@
     },
     {
       "displayName": "퇴근은언제냥 (5)",
-      "contribution": "후면단속 지점 제보"
-    },
-    {
-      "displayName": "부릉부릉춘식 (10)",
       "contribution": "후면단속 지점 제보"
     },
     {
